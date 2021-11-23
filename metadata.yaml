@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '41047'
     url: http://www.gutenberg.org/2009/agents/41047
     wikipedia: https://en.wikipedia.org/wiki/Henry_Sandham
+covers:
+- cover_type: archival
+  image_path: 66602-h/images/cover.jpg
 creator:
   author:
     agent_name: Blodgett, Mabel Fuller
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53879
     wikipedia: https://en.wikipedia.org/wiki/Mabel_Fuller_Blodgett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66602#At-the-Queens-Mercy
 gutenberg_issued: '2021-10-23'
 identifiers:
   gutenberg: '66602'
